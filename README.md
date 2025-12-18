@@ -4,7 +4,9 @@
 
 - **Early Feature Clustering Loss** : voxel size=0.01,  $L_{\text{feat}}$  starts >= 1 iteration
 - **Fine Voxel Size** :  voxel size=0.001,  $L_{\text{feat}}$​  starts >= 2,000 iterations 
-- **Best**: voxel size=0.01,  $L_{\text{feat}}$  starts >= 2,000 iterations 
+- **Best**: voxel size=0.01,  $L_{\text{feat}}$​  starts >= 2,000 iterations 
+
+We conduct experiments on the Tanks&Temples dataset:
 
 | Parameters configuration      | PSNR&uarr; | SSIM&uarr; | LPIPS&darr; |
 | ----------------------------- | :--------: | :--------: | :---------: |
