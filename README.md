@@ -22,7 +22,7 @@
 
 ## Experimental Results Analysis
 
-![image-20251218173839289](/Users/guozihang/Desktop/sflgs/SFL-GS/image-20251218173839289.png)
+![image-20251218173839289](image-20251218173839289.png)
 
 Our proposed method demonstrates superior performance compared to Scaffold-GS, attributable to two principal innovations. 
 
