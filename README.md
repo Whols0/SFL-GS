@@ -6,11 +6,11 @@
 - **Fine Voxel Size** :  voxel size=0.001,  $L_{\text{feat}}$​  starts >= 2,000 iterations 
 - **Best**: voxel size=0.01,  $L_{\text{feat}}$  starts >= 2,000 iterations 
 
-| Parameters configuration      | PSNR$\uparrow$ | SSIM$\uparrow$ | LPIPS$\downarrow$ |
-| ----------------------------- | :------------: | :------------: | :---------------: |
-| Early Feature Clustering Loss |     24.11      |     0.852      |       0.172       |
-| Fine Voxel Size               |     24.13      |     内容6      |       0.169       |
-| Best                          |     24.32      |     0.861      |       0.161       |
+| Parameters configuration      | PSNR&uarr; | SSIM&uarr; | LPIPS&darr; |
+| ----------------------------- | :--------: | :--------: | :---------: |
+| Early Feature Clustering Loss |   24.11    |   0.852    |    0.172    |
+| Fine Voxel Size               |   24.13    |   内容6    |    0.169    |
+| Best                          |   24.32    |   0.861    |    0.161    |
 
 ### Result Analysis：
 
