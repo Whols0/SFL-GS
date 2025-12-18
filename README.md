@@ -9,7 +9,7 @@
 | Parameters configuration      | PSNR&uarr; | SSIM&uarr; | LPIPS&darr; |
 | ----------------------------- | :--------: | :--------: | :---------: |
 | Early Feature Clustering Loss |   24.11    |   0.852    |    0.172    |
-| Fine Voxel Size               |   24.13    |   内容6    |    0.169    |
+| Fine Voxel Size               |   24.13    |   0.857    |    0.169    |
 | Best                          |   24.32    |   0.861    |    0.161    |
 
 ### Result Analysis：
